@@ -1,1 +1,1 @@
-# How To Monitor Azure IoT Hub with Azure CLI 2.0
+﻿# <p style="text-align: center;">How to monitor your Azure IoT Hub messages from Azure CLI</p>
